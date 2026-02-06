@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/image_1.png" alt="Agent Playground Banner" width="100%">
+</p>
+
 # 🤖 Agent Playground
 
 A collection of AI agent experiments and projects exploring the capabilities of various frameworks, models, and architectures.
